@@ -1,12 +1,16 @@
-*.class
+# intellij
+/.idea
 
-# Mobile Tools for Java (J2ME)
-.mtj.tmp/
+# composer
+/vendor
+composer.lock
 
-# Package Files #
-*.jar
-*.war
-*.ear
+# OS related
+.DS_Store
+Thumbs.db
 
-# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
-hs_err_pid*
+# nodejs
+npm-debug.log
+/node_modules
+
+

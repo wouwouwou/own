@@ -1,0 +1,14 @@
+{
+  "name": "wouwouwou/own",
+  "description": "My own project. No goal yet...",
+  "license": "Apache-2.0",
+  "require": {
+    // "composer/spdx-licenses": "1.1.2",
+    "monolog/monolog": "1.18.1",
+    "phpunit/phpunit": "5.2.11",
+    "phpunit/php-code-coverage": "3.3.0",
+    "phpunit/php-timer": "1.0.7",
+    "phpdocumentor/phpdocumentor": "^2.8",
+    "doctrine/orm": "^2.5"
+  }
+}
